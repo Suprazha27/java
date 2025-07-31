@@ -7,3 +7,6 @@ public class userInputExample {
         System.out.println("HEllo, " + name);
         scanner.close();
     }}
+Output
+Enter your name:subi
+Hello,subi
