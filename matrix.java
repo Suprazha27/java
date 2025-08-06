@@ -18,6 +18,12 @@ public class Main {
                 }System.out.println("");
             }
         }
-        
+     
     }
-}
+        Enter rows and columns
+            4
+            4
+            1010
+            0101
+            1010
+            0101
